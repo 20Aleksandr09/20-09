@@ -1,0 +1,488 @@
+Uri: https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\7.120.3\modulemetadata.es5.min.js
+Content Type: application/javascript
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dataBindingInMasterResponsive%2C.dropAppsClientSpecMapByApplicationId%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixHasPinnedChildrenRepeaterCalc%2C.fixRatingsInputLeftShift%2C.getSiteOverrideFromAllInflationChain%2C.imageEncodingAVIF%2C.invalidateDocumentData%2C.overflowXClipInMobile%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4468.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.vesela-pani.nl&fileId=66e58f30.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=true&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=ru&languageResolutionMethod=QueryParam&metaSiteId=56fca874-d9ed-402a-9ecc-23bc43817bb6&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=ru&pageId=865a9b_05eb44c805969726e35cded153d41fe1_788.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13431.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13431.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=61558964-5058-4c12-8176-04678b6bd07b&siteRevision=789&staticHTMLComponentUrl=https:%2F%2Fwww-vesela-pani-nl.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\pages\pages\thunderbolt-1
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dataBindingInMasterResponsive%2C.dropAppsClientSpecMapByApplicationId%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixHasPinnedChildrenRepeaterCalc%2C.fixRatingsInputLeftShift%2C.getSiteOverrideFromAllInflationChain%2C.imageEncodingAVIF%2C.invalidateDocumentData%2C.overflowXClipInMobile%2C.prefetchPageResourcesVeloApi%2C.removeAllStatesBlocksFix%2C.shouldUseResponsiveImages%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType%2C.useSvgLoaderFeature&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.4468.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.vesela-pani.nl&fileId=66e58f30.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=true&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=ru&languageResolutionMethod=QueryParam&metaSiteId=56fca874-d9ed-402a-9ecc-23bc43817bb6&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=ru&pageId=865a9b_a3d871c9c45b3fa777a8f560165f4d46_788.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13431.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13431.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=61558964-5058-4c12-8176-04678b6bd07b&siteRevision=789&staticHTMLComponentUrl=https:%2F%2Fwww-vesela-pani-nl.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\pages\pages\thunderbolt
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dataBindingInMasterResponsive%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.getSiteOverrideFromAllInflationChain%2C.invalidateDocumentData%2C.overflowXClipInMobile%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.4468.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.vesela-pani.nl&fileId=26ae9d22.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=true&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=ru&metaSiteId=56fca874-d9ed-402a-9ecc-23bc43817bb6&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=ru&pageId=865a9b_05eb44c805969726e35cded153d41fe1_788.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13431.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13431.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=61558964-5058-4c12-8176-04678b6bd07b&siteRevision=789&staticHTMLComponentUrl=https:%2F%2Fwww-vesela-pani-nl.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\pages\pages\thunderbolt-3
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dataBindingInMasterResponsive%2C.fetchBlocksDevCenterWidgetIds%2C.fiveGridLineStudioSkins%2C.fixRatingsInputLeftShift%2C.getSiteOverrideFromAllInflationChain%2C.invalidateDocumentData%2C.overflowXClipInMobile%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useInternalBlocksRefType&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.4468.0&editorName=Unknown&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer%2Cdm_removeTpaChildren%2Cspecs.thunderbolt.use_data_fixed_pages_upstream&externalBaseUrl=https:%2F%2Fwww.vesela-pani.nl&fileId=26ae9d22.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=true&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=ru&metaSiteId=56fca874-d9ed-402a-9ecc-23bc43817bb6&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=ru&pageId=865a9b_a3d871c9c45b3fa777a8f560165f4d46_788.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13431.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13431.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=61558964-5058-4c12-8176-04678b6bd07b&siteRevision=789&staticHTMLComponentUrl=https:%2F%2Fwww-vesela-pani-nl.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\pages\pages\thunderbolt-2
+Content Type: application/json
+
+Uri: https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-lt-w10-roman.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\2af1bf48-e783-4da8-9fa0-599dde29f2d5\v1\helvetica-lt-w10-roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-w01-roman.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\2af1bf48-e783-4da8-9fa0-599dde29f2d5\v1\helvetica-w01-roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2af1bf48-e783-4da8-9fa0-599dde29f2d5/v1/helvetica-w02-roman.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\2af1bf48-e783-4da8-9fa0-599dde29f2d5\v1\helvetica-w02-roman.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2f12de04-5ca4-4ada-9e66-a958673b12b5/v1/helvetica-lt-w10-bold.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\2f12de04-5ca4-4ada-9e66-a958673b12b5\v1\helvetica-lt-w10-bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2f12de04-5ca4-4ada-9e66-a958673b12b5/v1/helvetica-w01-bold.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\2f12de04-5ca4-4ada-9e66-a958673b12b5\v1\helvetica-w01-bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/2f12de04-5ca4-4ada-9e66-a958673b12b5/v1/helvetica-w02-bold.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\2f12de04-5ca4-4ada-9e66-a958673b12b5\v1\helvetica-w02-bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w01_85-heavy1475544.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\74290729-59ae-4129-87d0-2eec3974dce1\v1\avenir-lt-w01_85-heavy1475544.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w05_85-heavy.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\74290729-59ae-4129-87d0-2eec3974dce1\v1\avenir-lt-w05_85-heavy.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\af36905f-3c92-4ef9-b0c1-f91432f16ac1\v1\avenir-lt-w01_35-light1475496.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\af36905f-3c92-4ef9-b0c1-f91432f16ac1\v1\avenir-lt-w05_35-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w01-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w02-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w10-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.920.0/siteTags.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\services\tag-manager-client\1.920.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\services\wix-thunderbolt\dist\browser-deprecation.bundle.es5.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.4319fc60.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\services\wix-thunderbolt\dist\main.4319fc60.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.a20626f8.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\services\wix-thunderbolt\dist\main.renderer.a20626f8.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.0f8a2bd6.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\services\wix-thunderbolt\dist\thunderbolt-commons.0f8a2bd6.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/lato/v14/2hXzmNaFRuKTSBR9nRGO-A.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\lato\v14\2hXzmNaFRuKTSBR9nRGO-A.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/lato/v14/7nLfsQCzhQW_PwpkrwroYw.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\lato\v14\7nLfsQCzhQW_PwpkrwroYw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/lato/v14/AcvTq8Q0lyKKNxRlL28Rn1tXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\lato\v14\AcvTq8Q0lyKKNxRlL28Rn1tXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/lato/v14/XNVd6tsqi9wmKNvnh5HNEFtXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\lato\v14\XNVd6tsqi9wmKNvnh5HNEFtXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/lato/v24/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\lato\v24\S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/lato/v24/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\lato\v24\S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/lato/v24/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\lato\v24\S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\lato\v24\S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/lato/v24/S6uyw4BMUTPHjx4wXiWtFCc.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\lato\v24\S6uyw4BMUTPHjx4wXiWtFCc.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/lato/v24/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\lato\v24\S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\lato\v24\S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz-PZwjimrq1Q_.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZcgvz-PZwjimrq1Q_.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz8fZwjimrq1Q_.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZcgvz8fZwjimrq1Q_.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz8vZwjimrq1Q_.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZcgvz8vZwjimrq1Q_.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz8_Zwjimrq1Q_.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZcgvz8_Zwjimrq1Q_.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZwjimrqw.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZcgvz_PZwjimrqw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRxC7m0dR9pBOi.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUQjIg1_i6t8kCHKm459WxRxC7m0dR9pBOi.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRxi7m0dR9pBOi.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUQjIg1_i6t8kCHKm459WxRxi7m0dR9pBOi.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRxy7m0dR9pBOi.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUQjIg1_i6t8kCHKm459WxRxy7m0dR9pBOi.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRzS7m0dR9pBOi.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUQjIg1_i6t8kCHKm459WxRzS7m0dR9pBOi.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3g3D_vx3rCubqg.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_dJE3g3D_vx3rCubqg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gbD_vx3rCubqg.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_dJE3gbD_vx3rCubqg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gfD_vx3rCubqg.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_dJE3gfD_vx3rCubqg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gnD_vx3rCs.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_dJE3gnD_vx3rCs.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gTD_vx3rCubqg.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_dJE3gTD_vx3rCubqg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v16/cgaIrkaP9Empe8_PwXbajFtXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\oswald\v16\cgaIrkaP9Empe8_PwXbajFtXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v16/dI-qzxlKVQA6TUC5RKSb31tXRa8TVwTICgirnJhmVJw.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\oswald\v16\dI-qzxlKVQA6TUC5RKSb31tXRa8TVwTICgirnJhmVJw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752FD8Gl-1PK62t.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\oswald\v29\TK3iWkUHHAIjg752FD8Gl-1PK62t.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752Fj8Gl-1PK62t.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\oswald\v29\TK3iWkUHHAIjg752Fj8Gl-1PK62t.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752Fz8Gl-1PK62t.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\oswald\v29\TK3iWkUHHAIjg752Fz8Gl-1PK62t.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752GT8Gl-1PKw.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\oswald\v29\TK3iWkUHHAIjg752GT8Gl-1PKw.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/oswald/v29/TK3iWkUHHAIjg752HT8Gl-1PK62t.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\oswald\v29\TK3iWkUHHAIjg752HT8Gl-1PK62t.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\unpkg\lodash@4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\unpkg\react-dom@18.3.1\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\unpkg\react@18.3.1\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.wixstatic.com/media/865a9b_08c90d7dcf974d409ddfaa1793299646~mv2.png/v1/fill/w_35,h_35,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ic_call8.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\865a9b_08c90d7dcf974d409ddfaa1793299646~mv2.png\v1\fill\w_35,h_35,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\ic_call8.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/865a9b_0927d15af5934fc69c638efd0a998bde~mv2.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/ic_sun.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\865a9b_0927d15af5934fc69c638efd0a998bde~mv2.png\v1\fill\w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\ic_sun.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/865a9b_162ec1c267f9403b881f2d5750849478~mv2.jpg/v1/fill/w_108,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/HowToBuy_pic2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\865a9b_162ec1c267f9403b881f2d5750849478~mv2.jpg\v1\fill\w_108,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\HowToBuy_pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/865a9b_3ac2649baa3d47488b43fe112205d042~mv2.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/ic_tue_frie.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\865a9b_3ac2649baa3d47488b43fe112205d042~mv2.png\v1\fill\w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\ic_tue_frie.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/865a9b_7c8280254728482daec7afc5d81940ca~mv2.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/ic_sat.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\865a9b_7c8280254728482daec7afc5d81940ca~mv2.png\v1\fill\w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\ic_sat.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/865a9b_9b42e31bf03f4e7f978a20ae52902f0b~mv2.jpg/v1/fill/w_110,h_159,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/delivery1.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\865a9b_9b42e31bf03f4e7f978a20ae52902f0b~mv2.jpg\v1\fill\w_110,h_159,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\delivery1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/865a9b_a384b47c92034d1baacb7ca56996a835~mv2.png/v1/fill/w_33,h_25,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/865a9b_a384b47c92034d1baacb7ca56996a835~mv2.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\865a9b_a384b47c92034d1baacb7ca56996a835~mv2.png\v1\fill\w_33,h_25,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\865a9b_a384b47c92034d1baacb7ca56996a835~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/865a9b_c3c99bcf2ca04781944272378377310f~mv2.png/v1/fill/w_46,h_46,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/menu1.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\865a9b_c3c99bcf2ca04781944272378377310f~mv2.png\v1\fill\w_46,h_46,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\menu1.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/865a9b_d304bbf7bee14b418d56534267357595~mv2.png/v1/fill/w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/ic_mon.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\865a9b_d304bbf7bee14b418d56534267357595~mv2.png\v1\fill\w_40,h_40,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\ic_mon.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/865a9b_e840e15f90ee4586bd22e418c99d3340~mv2.png/v1/fill/w_121,h_110,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/menu2_1.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\865a9b_e840e15f90ee4586bd22e418c99d3340~mv2.png\v1\fill\w_121,h_110,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\menu2_1.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/865a9b_f445e01102364b3ea246f0a0bfd99a26~mv2.png/v1/fill/w_80,h_80,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/865a9b_f445e01102364b3ea246f0a0bfd99a26~mv2.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\865a9b_f445e01102364b3ea246f0a0bfd99a26~mv2.png\v1\fill\w_80,h_80,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\865a9b_f445e01102364b3ea246f0a0bfd99a26~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/865a9b_f445e01102364b3ea246f0a0bfd99a26~mv2.png/v1/fill/w_80,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/865a9b_f445e01102364b3ea246f0a0bfd99a26~mv2.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\865a9b_f445e01102364b3ea246f0a0bfd99a26~mv2.png\v1\fill\w_80,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto\865a9b_f445e01102364b3ea246f0a0bfd99a26~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/d2771b_0205b72f63a74eaf88d97d129aec393e~mv2.png/v1/fill/w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/icon4_1_edited.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_0205b72f63a74eaf88d97d129aec393e~mv2.png\v1\fill\w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\icon4_1_edited.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/d2771b_07338df0b8aa4949b018bd74589b6a1c~mv2.png/v1/fill/w_20,h_20,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/icon8_1_edited.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_07338df0b8aa4949b018bd74589b6a1c~mv2.png\v1\fill\w_20,h_20,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\icon8_1_edited.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/d2771b_43eef8becebc4192a111f421418f0e4a~mv2.jpg/v1/fit/w_960,h_540,q_90,enc_avif,quality_auto/d2771b_43eef8becebc4192a111f421418f0e4a~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_43eef8becebc4192a111f421418f0e4a~mv2.jpg\v1\fit\w_960,h_540,q_90,enc_avif,quality_auto\d2771b_43eef8becebc4192a111f421418f0e4a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_48c66eafd78d4a37b5f76d849144fba7~mv2.jpg/v1/fill/w_145,h_96,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/d2771b_48c66eafd78d4a37b5f76d849144fba7~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_48c66eafd78d4a37b5f76d849144fba7~mv2.jpg\v1\fill\w_145,h_96,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\d2771b_48c66eafd78d4a37b5f76d849144fba7~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_4e6251fa821747d08e1ff6e7f95c8a46~mv2.png/v1/fill/w_61,h_61,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/d2771b_4e6251fa821747d08e1ff6e7f95c8a46~mv2.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_4e6251fa821747d08e1ff6e7f95c8a46~mv2.png\v1\fill\w_61,h_61,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\d2771b_4e6251fa821747d08e1ff6e7f95c8a46~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/d2771b_4e991dbe8b3f49a387a1204ddbe81b17~mv2.jpg/v1/fill/w_147,h_61,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/d2771b_4e991dbe8b3f49a387a1204ddbe81b17~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_4e991dbe8b3f49a387a1204ddbe81b17~mv2.jpg\v1\fill\w_147,h_61,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\d2771b_4e991dbe8b3f49a387a1204ddbe81b17~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_504cbddea5b4491ba47c74779f181b49~mv2.jpg/v1/fit/w_960,h_706,q_90,enc_avif,quality_auto/d2771b_504cbddea5b4491ba47c74779f181b49~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_504cbddea5b4491ba47c74779f181b49~mv2.jpg\v1\fit\w_960,h_706,q_90,enc_avif,quality_auto\d2771b_504cbddea5b4491ba47c74779f181b49~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_50a0bcec46e94c8e9cb2373d5b41a7c6~mv2.jpg/v1/fit/w_960,h_598,q_90,enc_avif,quality_auto/d2771b_50a0bcec46e94c8e9cb2373d5b41a7c6~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_50a0bcec46e94c8e9cb2373d5b41a7c6~mv2.jpg\v1\fit\w_960,h_598,q_90,enc_avif,quality_auto\d2771b_50a0bcec46e94c8e9cb2373d5b41a7c6~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_5b0468df366f44f289757c0b058fdeab~mv2.jpg/v1/fill/w_115,h_65,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/d2771b_5b0468df366f44f289757c0b058fdeab~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_5b0468df366f44f289757c0b058fdeab~mv2.jpg\v1\fill\w_115,h_65,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\d2771b_5b0468df366f44f289757c0b058fdeab~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_5d8f65d857544725ae1843efe0975bd2~mv2.png/v1/fill/w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/icon1_1_edited.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_5d8f65d857544725ae1843efe0975bd2~mv2.png\v1\fill\w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\icon1_1_edited.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/d2771b_606c6e3468ea48ddabee576a05e2f423~mv2.jpg/v1/fit/w_960,h_640,q_90,enc_avif,quality_auto/d2771b_606c6e3468ea48ddabee576a05e2f423~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_606c6e3468ea48ddabee576a05e2f423~mv2.jpg\v1\fit\w_960,h_640,q_90,enc_avif,quality_auto\d2771b_606c6e3468ea48ddabee576a05e2f423~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_62fefd13411447b0afde6c654bc4b330~mv2.jpg/v1/fit/w_908,h_720,q_90,enc_avif,quality_auto/d2771b_62fefd13411447b0afde6c654bc4b330~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_62fefd13411447b0afde6c654bc4b330~mv2.jpg\v1\fit\w_908,h_720,q_90,enc_avif,quality_auto\d2771b_62fefd13411447b0afde6c654bc4b330~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_65939f8a859d4c91bff2573025cb1697~mv2.jpeg/v1/fill/w_81,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/lokal3-1280x853.jpeg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_65939f8a859d4c91bff2573025cb1697~mv2.jpeg\v1\fill\w_81,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\lokal3-1280x853.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_670437faf7ab49e78efbe82fc39f7fcc~mv2.png/v1/fill/w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/icon03.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_670437faf7ab49e78efbe82fc39f7fcc~mv2.png\v1\fill\w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\icon03.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/d2771b_677d2ed50dad440ba8a98c007fd24a81~mv2.jpeg/v1/fit/w_480,h_600,q_90,enc_avif,quality_auto/d2771b_677d2ed50dad440ba8a98c007fd24a81~mv2.jpeg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_677d2ed50dad440ba8a98c007fd24a81~mv2.jpeg\v1\fit\w_480,h_600,q_90,enc_avif,quality_auto\d2771b_677d2ed50dad440ba8a98c007fd24a81~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_679cbe4683ea4b938291e00917c10252~mv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/d2771b_679cbe4683ea4b938291e00917c10252~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_679cbe4683ea4b938291e00917c10252~mv2.jpg\v1\fill\w_180,h_180,lg_1,usm_0.66_1.00_0.01\d2771b_679cbe4683ea4b938291e00917c10252~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_679cbe4683ea4b938291e00917c10252~mv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/d2771b_679cbe4683ea4b938291e00917c10252~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_679cbe4683ea4b938291e00917c10252~mv2.jpg\v1\fill\w_192,h_192,lg_1,usm_0.66_1.00_0.01\d2771b_679cbe4683ea4b938291e00917c10252~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_679cbe4683ea4b938291e00917c10252~mv2.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/d2771b_679cbe4683ea4b938291e00917c10252~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_679cbe4683ea4b938291e00917c10252~mv2.jpg\v1\fill\w_32,h_32,lg_1,usm_0.66_1.00_0.01\d2771b_679cbe4683ea4b938291e00917c10252~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_6c6240a62cd04dbda66ad47cb888867a~mv2.jpg/v1/fit/w_960,h_540,q_90,enc_avif,quality_auto/d2771b_6c6240a62cd04dbda66ad47cb888867a~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_6c6240a62cd04dbda66ad47cb888867a~mv2.jpg\v1\fit\w_960,h_540,q_90,enc_avif,quality_auto\d2771b_6c6240a62cd04dbda66ad47cb888867a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_7104d3e0d3694eb8a02e6d4c882f9a88~mv2.png/v1/fill/w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/icon01.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_7104d3e0d3694eb8a02e6d4c882f9a88~mv2.png\v1\fill\w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\icon01.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/d2771b_99222c71ecba4be0811ae0a6b3cd5c19~mv2.jpg/v1/fit/w_480,h_696,q_90,enc_avif,quality_auto/d2771b_99222c71ecba4be0811ae0a6b3cd5c19~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_99222c71ecba4be0811ae0a6b3cd5c19~mv2.jpg\v1\fit\w_480,h_696,q_90,enc_avif,quality_auto\d2771b_99222c71ecba4be0811ae0a6b3cd5c19~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_a6801fe3d96543e8bdb1c0c4ec5c8e84~mv2.jpg/v1/fit/w_960,h_540,q_90,enc_avif,quality_auto/d2771b_a6801fe3d96543e8bdb1c0c4ec5c8e84~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_a6801fe3d96543e8bdb1c0c4ec5c8e84~mv2.jpg\v1\fit\w_960,h_540,q_90,enc_avif,quality_auto\d2771b_a6801fe3d96543e8bdb1c0c4ec5c8e84~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_a8c402ad03b744bcb25230d64bd90f46~mv2.jpg/v1/fit/w_960,h_671,q_90,enc_avif,quality_auto/d2771b_a8c402ad03b744bcb25230d64bd90f46~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_a8c402ad03b744bcb25230d64bd90f46~mv2.jpg\v1\fit\w_960,h_671,q_90,enc_avif,quality_auto\d2771b_a8c402ad03b744bcb25230d64bd90f46~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_aa2a84c4696f4a4681a7f4bb00b994d9~mv2.png/v1/fill/w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/icon2_1_edited.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_aa2a84c4696f4a4681a7f4bb00b994d9~mv2.png\v1\fill\w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\icon2_1_edited.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/d2771b_ae1664aa4d094b1c8793f40bae39d37e~mv2.jpg/v1/fit/w_960,h_540,q_90,enc_avif,quality_auto/d2771b_ae1664aa4d094b1c8793f40bae39d37e~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_ae1664aa4d094b1c8793f40bae39d37e~mv2.jpg\v1\fit\w_960,h_540,q_90,enc_avif,quality_auto\d2771b_ae1664aa4d094b1c8793f40bae39d37e~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_c10a960f69734550807b7144a784d43c~mv2.jpg/v1/fit/w_960,h_603,q_90,enc_avif,quality_auto/d2771b_c10a960f69734550807b7144a784d43c~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_c10a960f69734550807b7144a784d43c~mv2.jpg\v1\fit\w_960,h_603,q_90,enc_avif,quality_auto\d2771b_c10a960f69734550807b7144a784d43c~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_cd2bf4df46af41dbb4d11828ae48bf4f~mv2.png/v1/fill/w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/icon02.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_cd2bf4df46af41dbb4d11828ae48bf4f~mv2.png\v1\fill\w_55,h_55,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\icon02.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/d2771b_d131c3fc70da4dcd808c975833b28332~mv2.jpg/v1/fit/w_960,h_540,q_90,enc_avif,quality_auto/d2771b_d131c3fc70da4dcd808c975833b28332~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_d131c3fc70da4dcd808c975833b28332~mv2.jpg\v1\fit\w_960,h_540,q_90,enc_avif,quality_auto\d2771b_d131c3fc70da4dcd808c975833b28332~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_e00c360a46164499b25f70f566638d69~mv2.jpg/v1/fit/w_960,h_540,q_90,enc_avif,quality_auto/d2771b_e00c360a46164499b25f70f566638d69~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_e00c360a46164499b25f70f566638d69~mv2.jpg\v1\fit\w_960,h_540,q_90,enc_avif,quality_auto\d2771b_e00c360a46164499b25f70f566638d69~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_e60ed902221048dea317e7a3888850b1~mv2.png/v1/fill/w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/icon3_1_edited.png
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_e60ed902221048dea317e7a3888850b1~mv2.png\v1\fill\w_60,h_60,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\icon3_1_edited.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/d2771b_eee418b55fbc4531b6976f0df0a6d326~mv2.jpg/v1/fit/w_960,h_540,q_90,enc_avif,quality_auto/d2771b_eee418b55fbc4531b6976f0df0a6d326~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_eee418b55fbc4531b6976f0df0a6d326~mv2.jpg\v1\fit\w_960,h_540,q_90,enc_avif,quality_auto\d2771b_eee418b55fbc4531b6976f0df0a6d326~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/d2771b_f9c2538628b04aabbc0690dbd3c9c67a~mv2.jpeg/v1/fit/w_480,h_641,q_90,enc_avif,quality_auto/d2771b_f9c2538628b04aabbc0690dbd3c9c67a~mv2.jpeg
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\media\d2771b_f9c2538628b04aabbc0690dbd3c9c67a~mv2.jpeg\v1\fit\w_480,h_641,q_90,enc_avif,quality_auto\d2771b_f9c2538628b04aabbc0690dbd3c9c67a~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/ufonts/f9ae35_b4e4aff5bb594001a3c992e517b158cc/ttf/file.ttf
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\ufonts\f9ae35_b4e4aff5bb594001a3c992e517b158cc\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/f9ae35_b4e4aff5bb594001a3c992e517b158cc/woff/file.woff
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\ufonts\f9ae35_b4e4aff5bb594001a3c992e517b158cc\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/f9ae35_b4e4aff5bb594001a3c992e517b158cc/woff2/file.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\ufonts\f9ae35_b4e4aff5bb594001a3c992e517b158cc\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://static.wixstatic.com/ufonts/f9ae35_ed6de2b0694d4b6c9e0bf485a533f573/ttf/file.ttf
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\ufonts\f9ae35_ed6de2b0694d4b6c9e0bf485a533f573\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/f9ae35_ed6de2b0694d4b6c9e0bf485a533f573/woff/file.woff
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\ufonts\f9ae35_ed6de2b0694d4b6c9e0bf485a533f573\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/f9ae35_ed6de2b0694d4b6c9e0bf485a533f573/woff2/file.woff2
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\ufonts\f9ae35_ed6de2b0694d4b6c9e0bf485a533f573\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://www.vesela-pani.nl/
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\index.htm
+Content Type: text/html
+
+Uri: https://www.vesela-pani.nl/_files/ugd/865a9b_bcc4f9f507594103b8dfa2f65fa51d71.pdf
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\_files\ugd\Vesela%20Pani%20assortment%20NL%2001.02.pdf
+Content Type: application/pdf
+
+Uri: https://www.vesela-pani.nl/_files/ugd/865a9b_cfc6755ca48340fc891dbc407698f007.pdf
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\_files\ugd\Allergenen%20lijst%20Vesela%20Pani%20-%20%D0%90%D1%80%D0%BA%D1%83%D1%881.pdf
+Content Type: application/pdf
+
+Uri: https://www.vesela-pani.nl/_files/ugd/865a9b_e7941724f04a4151a96069d4da05794c.pdf
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\_files\ugd\Vesela%20Pani%20assortment%20UKR%2001.02.pdf
+Content Type: application/pdf
+
+Uri: https://www.vesela-pani.nl/_files/ugd/865a9b_ff77408764474bdcad8a99e81c1de18f.pdf
+File Name: C:\Downloaded Web Sites\www.vesela-pani.nl\_files\ugd\Vesela%20Pani%20assortment%20ENG%2001.02.pdf
+Content Type: application/pdf
+
